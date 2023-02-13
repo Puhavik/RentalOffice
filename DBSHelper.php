@@ -5,10 +5,10 @@ class DBSHelper
 
     // Since the connection details are constant, define them as const
     // We can refer to constants like e.g. DatabaseHelper::username
-    const username = 'a01547637';
+    const username = '';
 
     // use a + your matriculation number
-    const password = 'dbs22';
+    const password = '';
 
     // use your oracle db password
     const con_string = 'oracle19.cs.univie.ac.at:1521/orclcdb';
