@@ -15,8 +15,8 @@ import com.github.javafaker.Faker;
 class DBS_Helper {
 	// Database connection info
 	private static final String DB_CONNECTION_URL = "jdbc:oracle:thin:@oracle19.cs.univie.ac.at:1521:orclcdb";
-	private static final String USER = "a01547637";
-	private static final String PASS = "dbs22";
+	private static final String USER = "";
+	private static final String PASS = "";
 
 	// The name of the class loaded from the ojdbc14.jar driver file
 	private static final String CLASSNAME = "oracle.jdbc.driver.OracleDriver";
