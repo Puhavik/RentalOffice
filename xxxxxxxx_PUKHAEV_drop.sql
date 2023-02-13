@@ -1,0 +1,12 @@
+DROP TABLE delivery;
+DROP TABLE employee;
+DROP TABLE reservation;
+DROP TABLE passenger_car;
+DROP TABLE truck;
+DROP TABLE car;
+DROP TABLE friends;
+DROP TABLE customer;
+DROP TABLE rental_office;
+DROP SEQUENCE seq_employee_id;
+DROP TRIGGER tr_employee_id;
+purge recyclebin;
